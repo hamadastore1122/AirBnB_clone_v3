@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""A module for web application deployment with Fabric."""
+"""A module for web application."""
 import os
 from datetime import datetime
 from fabric.api import local, runs_once
